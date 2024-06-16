@@ -1,0 +1,6 @@
+@HataChatSerives_HostAddress = http://localhost:5217
+
+GET {{HataChatSerives_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
